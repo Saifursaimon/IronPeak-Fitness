@@ -49,7 +49,7 @@ const Whyus = () => {
               </ul>
             </div>
             <div className=" hidden lg:flex w-1/2">
-              <img src="/Whyus.jpg" className=" rounded-lg shadow-2xl" />
+              <img src="/whyus.jpg" className=" rounded-lg shadow-2xl" />
             </div>
           </div>
         </div>
